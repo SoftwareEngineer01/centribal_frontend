@@ -3,6 +3,11 @@ export default [
     header: 'Apps & Pages',
   },
   {
+    title: 'Artículos',
+    route: 'articles-list',
+    icon: 'PackageIcon',
+  },
+  {
     title: 'Email',
     route: 'apps-email',
     icon: 'MailIcon',
