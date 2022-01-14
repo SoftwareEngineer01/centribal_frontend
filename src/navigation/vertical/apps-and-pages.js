@@ -8,6 +8,11 @@ export default [
     icon: 'PackageIcon',
   },
   {
+    title: 'Ordenes',
+    route: 'orders-list',
+    icon: 'PackageIcon',
+  },
+  {
     title: 'Email',
     route: 'apps-email',
     icon: 'MailIcon',
